@@ -26,10 +26,3 @@ function sayHiToGrandma(string) {
   }
 }
 
-function sayHiToGrandma(string) {
-	if(string === "I Love You, Grandma.") {
-		console.log('I Love You, Too');
-	} else {
-		console.log(string);
-		};
-};
